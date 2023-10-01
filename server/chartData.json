@@ -1,0 +1,56 @@
+{
+  "myBudget": [
+    {
+      "title": "Eat out",
+      "budget": 25,
+      "colorCode": "#E91E63"
+    },
+    {
+      "title": "Rent",
+      "budget": 275,
+      "colorCode": "#3498DB"
+    },
+    {
+      "title": "Grocery",
+      "budget": 110,
+      "colorCode": "#FF5733"
+    },
+    {
+      "title": "Movies",
+      "budget": 154,
+      "colorCode": "#3498DB"
+    },
+    {
+      "title": "Car",
+      "budget": 110,
+      "colorCode": "#F1C40F"
+    },
+    {
+      "title": "Insurance",
+      "budget": 420,
+      "colorCode": "#9B59B6"
+    },
+    {
+      "title": "Gym",
+      "budget": 35,
+      "colorCode": "#FFA726"
+    },
+    {
+      "title": "Phone Bill",
+      "budget": 80,
+      "colorCode": "#000000"
+    }
+  ],
+  "dy_data": [
+    { "label": "Football", "value": 30, "background": "#3498DB" },
+    { "label": "Basketball", "value": 20, "background": "#2ECC71" },
+    { "label": "Soccer", "value": 15, "background": "#E74C3C" },
+    { "label": "Baseball", "value": 10, "background": "#FFA726" },
+    { "label": "Tennis", "value": 5, "background": "#9B59B6" },
+    { "label": "Golf", "value": 4, "background": "#1ABC9C" },
+    { "label": "Hockey", "value": 3, "background": "#F1C40F" },
+    { "label": "Cricket", "value": 2, "background": "#E91E63" },
+    { "label": "Rugby", "value": 1.5, "background": "#34495E" },
+    { "label": "Swimming", "value": 1, "background": "#D35400" }
+  ]
+}

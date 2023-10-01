@@ -1,0 +1,12 @@
+[
+  { "label": "Football", "value": 30, "background": "#3498DB" },
+  { "label": "Basketball", "value": 20, "background": "#2ECC71" },
+  { "label": "Soccer", "value": 15, "background": "#E74C3C" },
+  { "label": "Baseball", "value": 10, "background": "#FFA726" },
+  { "label": "Tennis", "value": 5, "background": "#9B59B6" },
+  { "label": "Golf", "value": 4, "background": "#1ABC9C" },
+  { "label": "Hockey", "value": 3, "background": "#F1C40F" },
+  { "label": "Cricket", "value": 2, "background": "#E91E63" },
+  { "label": "Rugby", "value": 1.5, "background": "#34495E" },
+  { "label": "Swimming", "value": 1, "background": "#D35400" }
+]
